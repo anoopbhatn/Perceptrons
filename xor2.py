@@ -1,3 +1,4 @@
+# Backpropagation algorithm implementation for XOR with graph
 import numpy as np, matplotlib.pyplot as plt
 import random
 
